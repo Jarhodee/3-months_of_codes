@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(45, 48, 44);
+  }
+  
+  h1 {
+    margin-left: 20px;
+  }
+  
+ p{  
+       color: #6ca950;  
+       margin-left: 440px;  
+       font-size: 40px;  
+       font-weight: bold;  
+        } 
+
+    #register{  
+             color: white;  
+    width: 600px;  
+             height: 300px;  
+    margin: auto;  
+    margin-top: 30px;}  
+    div{  
+    background-color: #28455e;  
+        }  
+                  .tx{  
+    margin-left: 20px;
+}
+ 
+  

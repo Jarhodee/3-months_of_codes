@@ -4,9 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
+
+    <link rel="stylesheet" href="register.css">
 </head>
 <body>
-    <a href="newpage.html">New Page</a><br>
+	<h1>Registration Page</h1>
+	<p style="color: rgb(255, 0, 30);">fill in your information correctly!</p>
+
     <!-- use get, not post -->
     <form method="get">
         First Name: <input type="text" name="firstname"><br>
@@ -29,9 +33,11 @@
             <option value="Volvo">Volvo</option>
             <option value="Audi">Audi</option>
             <option value="Merecedes">Merecedes</option>
-        </select>
-        <input type="submit" value = "Register!">
+        </select><br>
+        <br>
+        <button type="button" onclick="alert('Registration successful!')" >Register!</button><br><br>
         <input type="submit" value = "Reset">
-    </form>
+    </form><br>
+    <a href="newpage.html">New Page</a><br>    
 </body>
 </html>
