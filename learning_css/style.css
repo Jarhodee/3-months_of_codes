@@ -1,3 +1,7 @@
+#head {
+    text-align: right;
+}
+
 body {
     background-image: url(images/background_image2.jpg);
     background-size: cover;
@@ -6,11 +10,28 @@ body {
 h2 {
     color: rgb(173, 65, 162);
     text-align: center;
-    border: 5px solid rgb(146, 105, 153, 0.5);
+    padding: 20px;
+    /* border: 5px solid rgb(146, 105, 153, 0.5); */
     cursor: pointer;
 }
 
 li {
     list-style: none;
     display: inline-block;
+}
+
+.webtext {
+    background-color: rgb(217, 230, 44, 0.5);
+    font-size: larger;
+    text-align: center;
+}
+
+.webtext2 {
+    border: 5px solid rgb(146, 105, 153, 0.5);
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;  
+    font-size: 100%;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
 }
