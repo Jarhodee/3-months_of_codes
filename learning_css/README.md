@@ -27,7 +27,7 @@ To use inline styles, add the style attribute to the relevant element. The style
 CSS selectors are used to "find" (or select) the HTML elements you want to style.
 
 + All CSS Simple Selectors:
-```
+
 | Selector | Example | Description |
 | :---        |    :----:   |      ---: |
 | #id | #firstname | Selects the element with id="firstname" |
@@ -36,7 +36,7 @@ element.class	p.intro	Selects only <p> elements with class="intro" |
 | * | * | Selects all elements |
 | element	| p | Selects all <p> elements |
 | element,element,..	div, | p | Selects all <div> elements and all <p> elements |
-```
+
 ## REFERENCE
 
 [W3school](https://www.w3schools.com/css/)
