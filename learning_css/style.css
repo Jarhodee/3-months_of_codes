@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/background_image2.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(173, 65, 162);
+    text-align: center;
+    border: 5px solid rgb(146, 105, 153, 0.5);
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
