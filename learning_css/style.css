@@ -35,3 +35,12 @@ li {
     font-family: 'Poiret One', cursive;
     text-align: center;
 }
+
+img {
+    float: right;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}

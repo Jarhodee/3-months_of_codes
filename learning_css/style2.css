@@ -1,0 +1,17 @@
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.head {
+    text-align: right;
+}
+
+.box-model {
+    border: 5px solid brown;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 0px 20px;
+    width: 33px;
+    height: 33px;
+}
