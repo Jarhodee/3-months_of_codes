@@ -37,6 +37,12 @@ CSS selectors are used to "find" (or select) the HTML elements you want to style
 | element	| p | Selects all ```<p>``` elements |
 | element,element,..	div, | p | Selects all ```<div>``` elements and all ```<p>``` elements |
 
+## CSS Paadding
+
+The CSS padding properties are used to generate space around an element's content, inside of any defined borders.
+
+With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
+
 ## REFERENCE
 
 [W3school](https://www.w3schools.com/css/)
