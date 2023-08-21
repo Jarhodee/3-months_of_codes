@@ -16,3 +16,19 @@ li {
     height: 33px;
     background-color: lightblue;
 }
+
+.underlined {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.j {
+    text-decoration: none;
+    border: 3px solid yellow;
+    padding: 10px 20px;
+}
+
+.link {
+    font-style: italic;
+    font-size: large;
+}
