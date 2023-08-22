@@ -43,6 +43,10 @@ The CSS padding properties are used to generate space around an element's conten
 
 With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
 
+## EM vs REM
+
+Basically that both rem and em are scalable and relative units of size, but with em, the unit is relative to the font size of its parent element, while the rem unit is only relative to the root font size of the HTML document. The “r” in rem stands for “root”. 
+
 ## REFERENCE
 
 [W3school](https://www.w3schools.com/css/)
